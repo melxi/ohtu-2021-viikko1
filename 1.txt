@@ -1,4 +1,0 @@
-"This is file number one"  
-"This is first change"
-"This is first change on second cloned repository"
-"This is second change"
