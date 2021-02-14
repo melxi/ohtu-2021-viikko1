@@ -36,11 +36,11 @@ public class Varasto {
 
     // --- ottavat aksessorit eli getterit: ---
     public double getSaldo() {
-        return -1;
+        return saldo;
     }
 
     public double getTilavuus() {
-        return -1;
+        return tilavuus;
     }
 
     public double paljonkoMahtuu() {  // huom: ominaisuus voidaan myös laskea
